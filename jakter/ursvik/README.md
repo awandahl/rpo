@@ -1,7 +1,7 @@
 
 ## Parkeringen vid Ursviks IP
 
-[Huvudparkeringen](https://www.hitta.se/kartan/f/hitta.se?prefMapFramework=leaflet&s=1da626f3) ligger intill fotbollsplanen vid korsningen mellan Enköpingsvägen och Ursviksvägen, se koordinater nedan. Parkering är gratis i fyra timmar med parkeringsskiva. [Mittemot - på andra sidan Ursviksvägen, vid ett gult hus - ]([https://www.hitta.se/kartan/f/hitta.se?prefMapFramework=leaflet&s=38e4eb0f](https://www.hitta.se/kartan/f/hitta.se?prefMapFramework=leaflet&s=4c9bb59b)) finns ytterligare elva platser med samma villkor. Ungefär 100 meter norrut på Ursviksvägens vänstra sida finns [ytterligare sju platser](https://www.hitta.se/kartan/f/hitta.se?prefMapFramework=leaflet&s=68176d0b) som kostar 10 kr/tim mellan kl 17-07 (APCOA Parking). Se bild nedan.
+[Huvudparkeringen](https://www.hitta.se/kartan/f/hitta.se?prefMapFramework=leaflet&s=1da626f3) ligger intill fotbollsplanen vid korsningen mellan Enköpingsvägen och Ursviksvägen, se koordinater nedan. Parkering är gratis i fyra timmar med parkeringsskiva. [Mittemot - på andra sidan Ursviksvägen, vid ett gult hus - ](https://www.hitta.se/kartan/f/hitta.se?prefMapFramework=leaflet&s=4c9bb59b) finns ytterligare elva platser med samma villkor. Ungefär 100 meter norrut på Ursviksvägens vänstra sida finns [ytterligare sju platser](https://www.hitta.se/kartan/f/hitta.se?prefMapFramework=leaflet&s=68176d0b) som kostar 10 kr/tim mellan kl 17-07 (APCOA Parking). Se bild nedan.
 
 ![ursvik_s](https://user-images.githubusercontent.com/62021989/183093422-a69ab6e2-8400-41dc-b50c-c29457a529ea.jpg)
 
