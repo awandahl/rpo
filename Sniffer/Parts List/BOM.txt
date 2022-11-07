@@ -1,0 +1,59 @@
+
+Parts to be installed at factory:
+
+IC1,IC2					SA602
+IC3					UA741C
+IC5					PIC16F886
+VR1					LP2981 	3.3v
+VR2					MC78L06	6v
+T1,T2					BC850C
+D1,D2					NTE618
+D3,D4					BAT74 uses only one part because case has 2 diodes inside
+C2					6-30p
+C5					100p*
+C47,C34,C26,C29,C39,C48,C43,C15		10uF	electrolitic
+C36					1uF	electrolitic
+C35,C44,C12				1uF
+C4,C33					1500p
+C3,C14,C27				10n
+C16,C17,C18				470p
+C55					5-60p*
+C22,C38,C40,C20,C25			100n
+C45					940p
+C46					830p
+C49					120p
+C23,C30					1n
+C11					12p				
+P1					2k*
+R2,R13,R39				1k*
+R7					15k*
+R5					220k
+R6,R27,R21,R37,R38			100k
+R10,R12					3k
+R9					1.1k
+R22					360k
+R23					1M
+R26					750k
+R20,R31	R36				2k
+R24					75k
+R25					82k
+R29					2.4k
+R40,R11,C10,R32,C32,C1			0
+R3,R17,R18,R41				10k
+R35,R16					20k Pot
+
+
+Parts needs to be installed manually:
+
+R4,R28					100k Pot
+L1					120uH* (60 turns on TOKO S7AG-A033HM)
+L3					53 turns for secondary on TOKO S7AG-A033HM, remove capacitor from contour
+L5					44 turns for secondary on TOKO S7AG-A033HM
+L10					59 turns for secondary on TOKO S7AG-A033HM			
+L7					44 turns on T-25-2
+ZQ1					455kHz
+CFWLA					CFK455J or similar
+C7					10n
+C21					100n
+
+
